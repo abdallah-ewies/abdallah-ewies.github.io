@@ -1,0 +1,10 @@
+,value
+countries (non-aggregate),217
+country-years,4991
+missing gdp_pc,467
+missing life_exp,0
+missing health_pc,645
+missing pop,0
+missing infant_mort,483
+"life-expectancy values flagged as extreme year-to-year swings (kept in primary results, left out of the sensitivity fit)",9
+"country-years with income and life expectancy (primary, all source values)",4524
