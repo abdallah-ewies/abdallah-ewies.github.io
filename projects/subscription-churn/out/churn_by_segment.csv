@@ -1,0 +1,13 @@
+plan,channel,customers,cancelled,customer_months,monthly_churn_pct
+Pro,Organic,682,254,5370,4.73
+Pro,Paid search,592,289,4088,7.07
+Pro,Partner,294,114,2100,5.43
+Pro,Referral,392,116,3443,3.37
+Starter,Organic,1224,677,7593,8.92
+Starter,Paid search,972,652,4869,13.39
+Starter,Partner,517,309,2865,10.79
+Starter,Referral,638,287,4550,6.31
+Team,Organic,248,67,2196,3.05
+Team,Paid search,232,75,1937,3.87
+Team,Partner,110,29,972,2.98
+Team,Referral,139,24,1362,1.76
