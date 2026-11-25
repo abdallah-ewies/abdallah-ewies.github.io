@@ -1,0 +1,22 @@
+{
+ "n_countries_2019": 199,
+ "slope_years_per_doubling_of_income": 4.1,
+ "r2": 0.715,
+ "sensitivity_without_flagged": {
+  "n_countries_2019": 198,
+  "slope_years_per_doubling_of_income": 3.92,
+  "r2": 0.734
+ },
+ "egypt_le_2019": 71.2,
+ "egypt_expected_le": 72.6,
+ "egypt_gap": -1.4,
+ "egypt_income_group": "Lower middle income",
+ "egypt_rank_gap_in_income_group": 30,
+ "income_group_size": 46,
+ "egypt_gap_sensitivity": -1.6,
+ "egypt_rank_sensitivity": 28,
+ "egypt_le_gain_2000_2019": 3.9,
+ "median_gain_same_group": 6.7,
+ "egypt_health_spend_pc_2019": 143.0,
+ "median_health_spend_same_group": 71.0
+}
